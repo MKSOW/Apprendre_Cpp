@@ -1,4 +1,5 @@
 contenu:
 viande hachée
 mayonnaise
-fromage
+fromage 
+le pain doit etre mi-cuit 
